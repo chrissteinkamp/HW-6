@@ -40,12 +40,12 @@ p {
 	
 	/* unvisited link */
 a:link {
-    color: white;
+    color: black;
 }
 
 /* visited link */
 a:visited {
-    color: white;
+    color: black;
 }
 
 /* mouse over link */
@@ -55,6 +55,6 @@ a:hover {
 
 /* selected link */
 a:active {
-    background-color: lightgray;
+    color: lightgray;
 }
 
