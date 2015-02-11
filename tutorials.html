@@ -35,12 +35,12 @@
 					<tbody class="row">
 							<tr ng-repeat="product in store.products">
 								<td>
-									<p>{{product.url}}</p>
+									<a ng-src="{{product.url}}">
 								<td>
 									<p>{{product.title}}</p>
 								</td>
 								<td>
-									<p>{{product.image}}</p>
+									<img ng-src="{{product.image}}">
 								</td>
 								<td>
 									<p>{{product.author}}</p>
