@@ -7,7 +7,7 @@
 
 	var tutorials = [
 		{
-			"url": 'http://tutorials.jenkov.com/angularjs/index.html',
+			"url": "http://tutorials.jenkov.com/angularjs/index.html",
 			"title": "AngularJS Tutorial",
 			"image": "http://tutorials.jenkov.com/images/layout/small-portrait_mini.jpg",
 			"author": "Jakob Jenkov"
